@@ -1,16 +1,27 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<!--
-**dessflav/dessflav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Hello, I'm Andressa.<br>
+  I'm a <strong>front end developer</strong> and I am sure that together we will go further.
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  🦄  Programming languages and Frameworks: <strong>HTML, CSS, Typescript, Bootstrap, JavaScript, ReactJS.</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💼 Tools: <strong>VS Code, Figma, Trello, Jira, Git, GitHub, GitLab.</strong>
+</p>
+
+<p align="left">
+  💌 Email: andressakotsugai@gmail.com ⤵
+</p>
+
+<p align="left">
+
+  <a href="https://www.linkedin.com/in/andressakotsugai/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andressakotsugai/" /></a>
+
+  <a href="https://www.instagram.com/dessflav" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/dessflav"/></a>
+</p>   
