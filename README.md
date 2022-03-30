@@ -2,11 +2,11 @@
 
 <p align="left"> 
   Hello, I'm Andressa.<br>
-  I'm a <strong>front end developer</strong> and I am sure that together we will go further.
+  I'm a <strong>fullstack developer</strong> and I am sure that together we will go further.
 </p>
 
 <p align="left">
-  🦄  Programming languages and Frameworks: <strong>HTML, CSS, Typescript, Bootstrap, JavaScript, ReactJS.</strong>
+ 💻  Programming languages and Frameworks: <strong>HTML, CSS, Typescript, Bootstrap, JavaScript, ReactJS. </strong>
 </p>
 
 <p align="left">
